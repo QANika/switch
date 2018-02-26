@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//This is a test comment. I'm practicing with Git
 public class Switch {
 
 
